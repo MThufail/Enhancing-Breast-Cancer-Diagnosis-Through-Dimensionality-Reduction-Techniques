@@ -77,8 +77,8 @@ The application of PCA and clustering provided valuable insights into the underl
    ```bash
    git clone https://github.com/MThufail/enhancing-breast-cancer-diagnosis.git
 
-2. Navigate to the project directory:
-  ```bash
+2. Navigate to the project directory:  ```bash
   cd enhancing-breast-cancer-diagnosis
-
 3. Open project.Rmd in RStudio to view and run the analysis.
+  
+   
